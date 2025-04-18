@@ -1,4 +1,4 @@
-# Amazon Smart TV Scraper
+# Amazon India TV Scraper
 
 A Node.js web scraper that extracts detailed product information from Amazon India's smart TV listings.
 
